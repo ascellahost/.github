@@ -2,15 +2,15 @@
 
 # Links
 
-- ## [Website](https://ascella.host)
-- ## [Docs](https://docs.ascella.host)
-- ## [Dash](https://dash.ascella.host)
-- ## [Discord](https://discord.gg/KkMKCchJb8)
+- #### 🌍[Website](https://ascella.host)
+- #### 📔[Docs](https://docs.ascella.host)
+- #### 🚀[Dash](https://dash.ascella.host)
+- #### 🏁[Discord](https://discord.gg/KkMKCchJb8)
 
 # Repos
 
-- ## [Frontend](./web)
-- ## [Edges](./edge)
-- ## [Backend](./tsunami)
-- ## [Translations](./translations)
-- ## [Desktop](./desktop)
+- #### [Frontend](./web)
+- #### [Edges](./edge)
+- #### [Backend](./tsunami)
+- #### [Translations](./translations)
+- #### [Desktop](./desktop)
