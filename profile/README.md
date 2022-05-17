@@ -2,10 +2,10 @@
 
 # Links
 
-- #### 🌍[Website](https://ascella.host)
-- #### 📔[Docs](https://docs.ascella.host)
-- #### 🚀[Dash](https://dash.ascella.host)
-- #### 🏁[Discord](https://discord.gg/KkMKCchJb8)
+- ### 🌍[Website](https://ascella.host)
+- ### 📔[Docs](https://docs.ascella.host)
+- ### 🚀[Dash](https://dash.ascella.host)
+- ### 🏁[Discord](https://discord.gg/KkMKCchJb8)
 
 # Repos
 
