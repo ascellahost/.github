@@ -9,8 +9,9 @@
 
 # Repos
 
-- #### [Frontend](./web)
-- #### [Edges](./edge)
-- #### [Backend](./tsunami)
-- #### [Translations](./translations)
-- #### [Desktop](./desktop)
+- ### [Frontend](https://github.com/ascellahost/web)
+- ### [Edges](https://github.com/ascellahost/edge)
+- ### [Backend](https://github.com/ascellahost/tsunami)
+- ### [Translations](https://github.com/ascellahost/translations)
+- ### [Desktop](https://github.com/ascellahost/desktop)
+- ### [Docs](https://github.com/ascellahost/docs)
